@@ -1,0 +1,17 @@
+# ============================================
+# 🛡 ACDC Commit Message Template
+# Purpose: Enforce commit hygiene across projects
+
+<type>: <short summary>
+# Allowed types:
+# - feat:      a new feature
+# - fix:       a bug fix
+# - style:     formatting only (no code change)
+# - test:      adding or changing tests
+# - refactor:  code restructuring (no feature/bug changes)
+# - docs:      documentation updates
+# ============================================
+
+<What changed>
+
+<Why it changed>
