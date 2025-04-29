@@ -1,6 +1,6 @@
 ---
 name: Discussions
-about: Discussion or brainstorming topi
+about: Discussion or brainstorming topic
 title: ""
 labels: discussion
 assignees: ''
