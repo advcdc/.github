@@ -1,7 +1,7 @@
 ---
 name: Discussions
-about: Create a discussion point on a specific topic
-title: "[DISCUSSION] "
+about: Discussion or brainstorming topi
+title: ""
 labels: discussion
 assignees: ''
 ---
