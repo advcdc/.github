@@ -1,0 +1,28 @@
+labels:
+  - name: discussion
+    color: cfd3d7
+    description: Discussion or brainstorming topic
+
+  - name: important
+    color: b60205
+    description: Important but may not be prioritised
+
+  - name: priority: high
+    color: b60205
+    description: High priority task
+
+  - name: priority: medium-high
+    color: d93f0b
+    description: Medium-high priority task
+
+  - name: priority: medium
+    color: fbca04
+    description: Medium priority task
+
+  - name: priority: low-medium
+    color: 0e8a16
+    description: Low-medium priority task
+
+  - name: priority: low
+    color: 1d76db
+    description: Low priority task
