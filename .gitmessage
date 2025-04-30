@@ -10,7 +10,7 @@
 # - ❌ remove:      removing a feature/functionality
 # - 🔀 merge:       branch merging
 # - 🤏 minor:       minor change (e.g. fix spelling)
-# - 🚧 prep:        groundwork for commits to come (e.g. type declarations for future feature)
+# - 🚧 wip:         work in progress
 # - 💄 format:      formatting only (no code change)
 # - ✅ test:        adding or changing tests
 # - 🧹 cleanup:     code cleanup (no feature/bug changes)
