@@ -34,7 +34,7 @@ This ensures each commit clearly states:
     git config --global commit.template .\.gitmessage
     ```
 
-    *(Note: If your path to `.gitmessage` differs, adjust accordingly.)*
+    *(Note: If your path to `.gitmessage` differs, adjust accordingly - USE ABSOLUTE PATH for it to work across all repos.)*
 
 3. When committing, use:
 
