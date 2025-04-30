@@ -4,12 +4,19 @@
 
 <type>: <short summary>
 # Allowed types:
-# - feat:      a new feature
-# - fix:       a bug fix
-# - style:     formatting only (no code change)
-# - test:      adding or changing tests
-# - refactor:  code restructuring (no feature/bug changes)
-# - docs:      documentation updates
+# - 📦 feat:        a new feature
+# - 🐛 fix:         a bug fix
+# - 👌 improve:     an improvement that is neither a feature nor a fix (e.g. code optimisation, better layout)
+# - ❌ remove:      removing a feature/functionality
+# - 🔀 merge:       branch merging
+# - 🤏 minor:       minor change (e.g. fix spelling)
+# - 🚧 prep:        groundwork for commits to come (e.g. type declarations for future feature)
+# - 💄 format:      formatting only (no code change)
+# - ✅ test:        adding or changing tests
+# - 🧹 cleanup:     code cleanup (no feature/bug changes)
+# - 🔨 refactor:    code restructuring (no feature/bug changes)
+# - 📖 docs:        documentation updates
+# - 🚀 release:     build files for official release
 # ============================================
 
 <What changed>
